@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5358c8d-4e0e-490a-aaf3-f98dd379986d" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/My Destiny - 理查德·克莱德曼.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1544.html" beforeDir="false" afterPath="$PROJECT_DIR$/1544.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/love.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/love.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607138273898</updated>
       <workItem from="1607138334469" duration="7741000" />
-      <workItem from="1607174736063" duration="744000" />
+      <workItem from="1607174736063" duration="2579000" />
     </task>
     <servers />
   </component>
